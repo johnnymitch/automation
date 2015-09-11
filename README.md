@@ -34,3 +34,6 @@ Post on Instagram from your Mac / PC
 
 ## Instagram > Camera Roll
 Automatically save liked photos to your camera roll
+
+## Latest news > Slack
+Get the latest news right in your Slack feed
