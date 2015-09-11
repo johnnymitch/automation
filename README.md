@@ -8,7 +8,17 @@ This is all about productivity, efficiency and automation, using some cool tech 
 
 # Cool integrations
 
-# General references
-- **You can view a full list of cheatsheets here:** https://github.com/johnnymitch/cheatsheets
-- **Slack formatting:** https://api.slack.com/docs/formatting
-- **Markdown cheatsheet:** https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+## Github > Trello
+Sync Github issue with a Trello board
+
+## Trello > Slack
+Notify a Slack channel when a Trello task is done
+
+## Trello > JIRA
+Automatically duplicate a card from Trello on JIRA
+
+## Webflow > Slack
+Get notified in Slack when someone signs up on a Webflow site
+
+## Webflow > Google Sheets
+Add all Webflow website signups to a Google Spreadsheet
