@@ -1,5 +1,7 @@
 # How to setup and test a daily Trello feed (via Zapier)
 
+![](http://jmitch.me/github/trello.jpg)
+
 ## Setup
 - Open Zapier: https://zapier.com
 - Trigger App = **Trello**
