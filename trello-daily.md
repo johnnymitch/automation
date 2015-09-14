@@ -5,7 +5,7 @@
 - Trigger App = **Trello**
 - Action App = **Trello**
 - Trigger = **New Notification**
-- Action = **Action**
+- Action = **Create new card**
 - Accounts = **Choose your own account**
 - Fiter = **Data Card Due** + **Exists**
 - Board = **Your board** (e.g. "John - Daily")
