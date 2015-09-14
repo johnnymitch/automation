@@ -38,5 +38,8 @@ Automatically save liked photos to your camera roll
 ## Latest news > Slack
 Get the latest news right in your Slack feed
 
+## Multiple Trello tasks > Single Trello board
+Sync cards from all of your Trello boards to a single board, based on due-dates
+
 ## Bidirectional syncing of Trello cards between boards
 - https://trello.com/cardsync
