@@ -37,3 +37,6 @@ Automatically save liked photos to your camera roll
 
 ## Latest news > Slack
 Get the latest news right in your Slack feed
+
+## Bidirectional syncing of Trello cards between boards
+- https://trello.com/cardsync
