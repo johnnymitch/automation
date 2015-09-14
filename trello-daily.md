@@ -1,5 +1,6 @@
 # How to setup and test a daily Trello feed (from Zapier)
 
+## Setup
 - Trigger App = **Trello**
 - Action App = **Trello**
 - Trigger = **New Notification**
@@ -13,3 +14,11 @@
 - Member = **Yourself** (e.g. "John Mitchell")
 - Due Date = **Date + 24h** > {{5232994__date}} +24h
 - URL Attachments = **Data Card URL** > {{5233573__data__card__url}}
+
+## Testing
+- Create a new card on any board you're added to on Trello
+- Add yourself as a member on the card you just created
+- Add a due date to the card you just created (make the due date tomorrow, 1 min away from the current time). E.g. if it's 14.09.2015 / 3pm, set the due date to 15.09.2015 / 3.01pm. This will trigger the date activity notification in one-minute.
+- Wait until you get a notification from Trello saying the task is due (within 30 seconds)
+- Go to Zapier and manually run the task (click the down arrow on the task then click run)
+- Head over to your daily list board, and your task will be there :-)
