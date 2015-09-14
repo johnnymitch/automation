@@ -25,8 +25,6 @@
 - Go to Zapier and manually run the task (click the down arrow on the task then click run)
 - Head over to your daily list board, and your task will be there :-)
 
----
-
 ## Further reading
 - https://zapier.com/help/trello/
 - https://zapier.com/help/advanced-tips/
