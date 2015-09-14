@@ -1,4 +1,4 @@
-# How to setup and test a daily Trello feed (from Zapier)
+# How to setup and test a daily Trello feed (via Zapier)
 
 ## Setup
 - Trigger App = **Trello**
