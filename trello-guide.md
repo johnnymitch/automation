@@ -15,7 +15,7 @@
 - Easily estimate and track time on tasks
 - https://github.com/johnnymitch/automation/blob/master/trello-time.md
 
-## Agile
+## Setting up lists (agile method)
 - Setup proper lists for Trello boards
 - https://github.com/johnnymitch/automation/blob/master/trello-scrum.md
 
