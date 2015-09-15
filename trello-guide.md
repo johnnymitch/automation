@@ -3,6 +3,9 @@
 ## Introduction video
 - http://help.trello.com/article/899-getting-started-video-demo
 
+## Trello 101
+- https://goo.gl/Kk2BjX
+
 ## Offical Trello guides
 - https://trello.com/guide
 - https://trello.com/guide/board_basics.html
