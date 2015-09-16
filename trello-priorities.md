@@ -28,3 +28,9 @@ Cards that have the red "TOP PRIORITY" label are tasks that need to be urgently 
 - Add a status (To do, In progress, Staging, Review, Done)
 - Add an estimate (e.g. 1h, 30m)
 - Add notes (if applicable)
+
+## Rules
+
+- ONLY add tasks that are **NOT** in the backlog. Tasks in the backlog have not been schedule yet, therefore they are not relevant.
+- Ensure all tasks in the sheet have a link back to Trello, otherwise there is not a reference.
+- Priority is done in a **top down** manner, as it's impossible to schedule tasks in a numerical fasion, e.g. 1, 2, 3, 50, 51 etc. that gets too hard to manage.
