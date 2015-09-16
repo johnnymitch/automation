@@ -43,3 +43,8 @@ Sync cards from all of your Trello boards to a single board, based on due-dates
 
 ## Bidirectional syncing of Trello cards between boards
 - https://trello.com/cardsync
+
+## Github Commit > FTP Upload
+Push the latest Github commit you did to your server automatially
+- https://desktop.github.com
+- https://ftploy.com
