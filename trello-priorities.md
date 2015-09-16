@@ -14,3 +14,17 @@ Tasks are prioritised in a top-down manner. That is, the higher up the list the 
 Cards that have the red "TOP PRIORITY" label are tasks that need to be urgently addressed.
 
 ![](http://jmitch.me/github/3.jpg)
+
+---
+
+# Prioritise via Google Sheet
+
+![](http://jmitch.me/github/clip_1.png)
+
+- Open up the spreadsheet template (as per the screenshot above)
+- Copy tasks from Trello (task name)
+- Select the text in the Sheet and hold CMD + K (or CTRL + K on Windows), and add a URL to the Trello task
+- Add a priority (Urgent, High, Medium, Low)
+- Add a status (To do, In progress, Staging, Review, Done)
+- Add an estimate (e.g. 1h, 30m)
+- Add notes (if applicable)
