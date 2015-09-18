@@ -48,3 +48,6 @@ Sync cards from all of your Trello boards to a single board, based on due-dates
 Push the latest Github commit you did to your server automatially
 - https://desktop.github.com
 - https://ftploy.com
+
+## Github Commit > Amazon S3
+Push the latest Github commit you did to your Amazon server automatially
